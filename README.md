@@ -28,3 +28,5 @@ Whether or not to allow luggage
 By schedule
 Once a flight has been selected, the passengers on the flight will be asked, initially showing the
 fields to know the information of a single passenger. The necessary fields will be:
+
+<b>Edit: the contributor PGriv is mentioned as Petros Grivas inside the project contributes.</b>
